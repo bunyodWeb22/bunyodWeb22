@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Bunyod - Frontend Developer" width="100%"/>
+<img src="./assets/banner.svg" alt="Bunyod - Python Backend & Telegram Bot Developer" width="100%"/>
 
-<img src="./assets/typing.svg" alt="Frontend developer: HTML, CSS, JavaScript, React, plus Python and Telegram bots" width="800" height="56"/>
+<img src="./assets/typing.svg" alt="Building Telegram bots, Python, AI integration" width="80%"/>
 
 [![Followers](https://img.shields.io/github/followers/bunyodWeb22?style=for-the-badge&logo=github&color=161b22&labelColor=0d1117)](https://github.com/bunyodWeb22?tab=followers)
 [![Repositories](https://img.shields.io/badge/Repositories-View_all-58a6ff?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/bunyodWeb22?tab=repositories)
